@@ -1,0 +1,6 @@
+.vscode/
+*.out
+*.exe
+*_unfinished.cpp
+*_unfinished/
+*_ignore/
